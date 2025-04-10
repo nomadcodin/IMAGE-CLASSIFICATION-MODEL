@@ -20,3 +20,4 @@ CNNs are ubiquitous in modern AI applications: autonomous vehicles (object detec
 
 # Output
 
+![Image](https://github.com/user-attachments/assets/77ded01c-95a8-4192-b384-cbb16f1a4129)
